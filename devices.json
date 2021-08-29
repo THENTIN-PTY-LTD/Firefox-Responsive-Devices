@@ -7,6 +7,26 @@
     ],
     "phones": [
       {
+        "name": "Galaxy I9300 S3",
+        "featured": false,
+        "width": 720,
+        "userAgent": "Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+        "touch": true,
+        "os": "Android",
+        "pixelRatio": 2,
+        "height": 1280
+      },
+      {
+        "name": "Galaxy Note 3",
+        "featured": false,
+        "width": 360,
+        "userAgent": "Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+        "touch": true,
+        "os": "",
+        "pixelRatio": 3,
+        "height": 640
+      },
+      {
         "name": "Galaxy Note 9",
         "width": 414,
         "height": 846,
