@@ -13,6 +13,8 @@ There is no installation as Firefox connects to a URL to get the devices file.
 To set it up, Open up your Mozilla Firefox and type `about:config` in the navigation bar (the bar where you type the website url) and hit enter.
 You will be prompted with a "Proceed with Caution" screen where you accept the rist and continue.
 In the "Search preference name" bar type `devtools.devices.url` and hit enter.
-It will be displayed below the search bar and to the right you should see an icon of a pen that you have to click. Once you clicked on the pen a new window will open where you can type your customized .json url.
+It will be displayed below the search bar and to the right you should see an icon of a pen that you have to click. Once you clicked on the pen a new window will open where you can type your customized .json url. [https://raw.githubusercontent.com/THENTIN-PTY-LTD/firefox_responsive_devices/main/devices.json](https://raw.githubusercontent.com/THENTIN-PTY-LTD/firefox_responsive_devices/main/devices.json)
 
-I have not tested it yet, but will update the file when I did.
+## SideNote
+I will be using [https://kapeli.com/cheat_sheets/CSS_Device_Media_Queries.docset/Contents/Resources/Documents/index](https://kapeli.com/cheat_sheets/CSS_Device_Media_Queries.docset/Contents/Resources/Documents/index) as a reference for devices as it most accurately corresponds with the current list.
+I have tried searching for an updated list of devices and specs but comparing [https://www.gsmarena.com](https://www.gsmarena.com) specs on devices with the current list provided by Mozilla Firefox, I tend to get the feeling that somewhare the specs are off. So if you know why they differ from each other and where I could get the correct specs, please let me know.
