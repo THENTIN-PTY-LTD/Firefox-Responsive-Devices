@@ -324,7 +324,7 @@
       "userAgent": "Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1",
       "touch": true,
       "os": "iOS",
-      "pixelRatio": 1,
+      "pixelRatio": 2,
       "height": 1024
     }, 
     {
