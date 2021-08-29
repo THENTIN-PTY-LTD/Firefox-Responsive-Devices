@@ -2,9 +2,9 @@
   "TYPES": [
     "phones",
     "tablets",
+    "televisions",
     "screens - standard",
-    "screens - hidpi",
-    "televisions"
+    "screens - hidpi"
   ],
   "phones": [
     {
@@ -393,6 +393,35 @@
       "os": "Android"
     }    
   ],
+  "televisions": [
+    {
+      "name": "1080p Full HD Television",
+      "width": 1920,
+      "height": 1080,
+      "pixelRatio": 1,
+      "userAgent": "",
+      "touch": false,
+      "os": "custom"
+    },
+    {
+      "name": "4K Ultra HD Television",
+      "width": 3840,
+      "height": 2160,
+      "pixelRatio": 1,
+      "userAgent": "",
+      "touch": false,
+      "os": "custom"
+    },
+    {
+      "name": "720p HD Television",
+      "width": 1280,
+      "height": 720,
+      "pixelRatio": 1,
+      "userAgent": "",
+      "touch": false,
+      "os": "custom"
+    }
+  ],
   "screens - standard": [
     {
       "name": "800 X 600 SD",
@@ -715,35 +744,6 @@
       "touch": false,
       "os": "custom",
       "pixelRatio": 2
-    }
-  ],
-  "televisions": [
-    {
-      "name": "1080p Full HD Television",
-      "width": 1920,
-      "height": 1080,
-      "pixelRatio": 1,
-      "userAgent": "",
-      "touch": false,
-      "os": "custom"
-    },
-    {
-      "name": "4K Ultra HD Television",
-      "width": 3840,
-      "height": 2160,
-      "pixelRatio": 1,
-      "userAgent": "",
-      "touch": false,
-      "os": "custom"
-    },
-    {
-      "name": "720p HD Television",
-      "width": 1280,
-      "height": 720,
-      "pixelRatio": 1,
-      "userAgent": "",
-      "touch": false,
-      "os": "custom"
     }
   ]
 }
