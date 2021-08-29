@@ -2,8 +2,8 @@
   "TYPES": [
     "phones",
     "tablets",
-    "screens-standard",
-    "screens-hidpi",
+    "screens - standard",
+    "screens - hidpi",
     "televisions"
   ],
   "phones": [
@@ -393,7 +393,7 @@
       "os": "Android"
     }    
   ],
-  "screens-standard": [
+  "screens - standard": [
     {
       "name": "800 X 600 SD",
       "featured": false,
@@ -401,7 +401,7 @@
       "height": 600,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -411,7 +411,7 @@
       "height": 576,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -421,7 +421,7 @@
       "height": 768,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -431,7 +431,7 @@
       "height": 648,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -441,7 +441,7 @@
       "height": 600,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -451,7 +451,7 @@
       "height": 720,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -461,7 +461,7 @@
       "height": 768,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -471,7 +471,7 @@
       "height": 800,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -481,7 +481,7 @@
       "height": 768,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -491,7 +491,7 @@
       "height": 768,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -501,7 +501,7 @@
       "height": 900,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -511,7 +511,7 @@
       "height": 1080,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -521,7 +521,7 @@
       "height": 1440,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -531,7 +531,7 @@
       "height": 1080,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -541,7 +541,7 @@
       "height": 2160,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     },
     {
@@ -551,11 +551,11 @@
       "height": 4320,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 1
     }
   ],
-  "screens-hidpi": [
+  "screens - hidpi": [
     {
       "name": "800 X 600 SD",
       "featured": false,
@@ -563,7 +563,7 @@
       "height": 600,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -573,7 +573,7 @@
       "height": 576,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -583,7 +583,7 @@
       "height": 768,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -593,7 +593,7 @@
       "height": 648,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -603,7 +603,7 @@
       "height": 600,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -613,7 +613,7 @@
       "height": 720,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -623,7 +623,7 @@
       "height": 768,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -633,7 +633,7 @@
       "height": 800,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -643,7 +643,7 @@
       "height": 768,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -653,7 +653,7 @@
       "height": 768,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -663,7 +663,7 @@
       "height": 900,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -673,7 +673,7 @@
       "height": 1080,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -683,7 +683,7 @@
       "height": 1440,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -693,7 +693,7 @@
       "height": 1080,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -703,7 +703,7 @@
       "height": 2160,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     },
     {
@@ -713,7 +713,7 @@
       "height": 4320,
       "userAgent": "",
       "touch": false,
-      "os": "",
+      "os": "custom",
       "pixelRatio": 2
     }
   ],
